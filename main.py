@@ -52,7 +52,7 @@ def syoukai():
             "text": "自己紹介",
             "weight": "bold",
             "size": "sm",
-            "wrap": true
+            "wrap": True
           },
           {
             "type": "box",
@@ -66,7 +66,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "名前",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#aaaaaa",
                     "size": "sm",
                     "flex": 1
@@ -74,7 +74,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "レタス",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#666666",
                     "size": "sm",
                     "flex": 2
@@ -89,7 +89,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "年齢",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#aaaaaa",
                     "size": "sm",
                     "flex": 1
@@ -97,7 +97,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "17",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#666666",
                     "size": "sm",
                     "flex": 2
@@ -112,7 +112,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "性別",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#aaaaaa",
                     "size": "sm",
                     "flex": 1
@@ -120,7 +120,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "男",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#666666",
                     "size": "sm",
                     "flex": 2
@@ -135,7 +135,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "住み",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#aaaaaa",
                     "size": "sm",
                     "flex": 1
@@ -143,7 +143,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "東京",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#666666",
                     "size": "sm",
                     "flex": 2
@@ -176,7 +176,7 @@ def syoukai():
             "text": "僕の趣味",
             "weight": "bold",
             "size": "sm",
-            "wrap": true
+            "wrap": True
           },
           {
             "type": "box",
@@ -190,7 +190,7 @@ def syoukai():
                   {
                     "type": "text",
                     "text": "下のボタンを押して続ける",
-                    "wrap": true,
+                    "wrap": True,
                     "color": "#8c8c8c",
                     "size": "xs",
                     "flex": 5
@@ -244,7 +244,7 @@ def syumi():
           {
             "type": "text",
             "text": "動画編集",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl"
           },
@@ -255,7 +255,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "2020年7月",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -263,7 +263,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "辺りから",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -307,7 +307,7 @@ def syumi():
           {
             "type": "text",
             "text": "写真撮影",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl"
           },
@@ -319,7 +319,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "2016年6月",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -327,7 +327,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "辺りから",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -372,7 +372,7 @@ def syumi():
           {
             "type": "text",
             "text": "音楽制作",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl"
           },
@@ -384,7 +384,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "2016年4月",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -392,7 +392,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "辺りから",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -437,7 +437,7 @@ def syumi():
           {
             "type": "text",
             "text": "プログラミング",
-            "wrap": true,
+            "wrap": True,
             "weight": "bold",
             "size": "xl"
           },
@@ -449,7 +449,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "2017年6月",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "xl",
                 "flex": 0
@@ -457,7 +457,7 @@ def syumi():
               {
                 "type": "text",
                 "text": "辺りから",
-                "wrap": true,
+                "wrap": True,
                 "weight": "bold",
                 "size": "sm",
                 "flex": 0
@@ -534,7 +534,7 @@ def douga():
               {
                 "type": "text",
                 "text": "時間や人間関係に縛られるのが辛くなり、自分で稼げて力もつく動画編集に憧れる",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -556,7 +556,7 @@ def douga():
               {
                 "type": "text",
                 "text": "その時持っていたWindowsのデスクトップパソコンで自分の動画を編集し始める",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -578,7 +578,7 @@ def douga():
               {
                 "type": "text",
                 "text": "色々な人と接しながら案件を獲得。しかし相手の対応が酷く(振込日を過ぎても連絡なし)案件を受けなくなった。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -600,7 +600,7 @@ def douga():
               {
                 "type": "text",
                 "text": "色々ありデスクトップ売りM1のMacBookを購入。動画編集を地道に続けている。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -622,7 +622,7 @@ def douga():
               {
                 "type": "text",
                 "text": "これからは再度案件を獲得するため自分の情報発信を続け信頼を獲得したい。すでに話の進んできている案件もある。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -704,7 +704,7 @@ def syasin():
               {
                 "type": "text",
                 "text": "親の古くなったミラーレス一眼レフを貰う。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -726,7 +726,7 @@ def syasin():
               {
                 "type": "text",
                 "text": "6月に行ったキャンプで写真を撮ることにハマる。その後自分用の一眼レフを買う。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -748,7 +748,7 @@ def syasin():
               {
                 "type": "text",
                 "text": "親がよく行くキャンプで写真を撮り続け風景写真を沢山撮影する。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -770,7 +770,7 @@ def syasin():
               {
                 "type": "text",
                 "text": "某ウイルスのせいもありキャンプになかなか行けず最近は一眼レフを触れてない。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -792,7 +792,7 @@ def syasin():
               {
                 "type": "text",
                 "text": "外に出れる状況になったらまた沢山風景写真を撮りたい。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -883,7 +883,7 @@ def music():
               {
                 "type": "text",
                 "text": "小学校の頃PCの授業で音楽を作るというものがあり、そこで楽曲制作にハマる。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -905,7 +905,7 @@ def music():
               {
                 "type": "text",
                 "text": "中一でスマホを買ってもらったと同時にガレージバンドというアプリで作曲を開始。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -927,7 +927,7 @@ def music():
               {
                 "type": "text",
                 "text": "曲をYouTubeに載せながらボチボチと作曲を継続。元から得意でなくとも続けることである程度の所まで行けることを実感。少し勇気が出た。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -949,7 +949,7 @@ def music():
               {
                 "type": "text",
                 "text": "ボーカロイドを使いながらボカロ曲を制作。音楽の知識も勉強中。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -971,7 +971,7 @@ def music():
               {
                 "type": "text",
                 "text": "ギターやピアノなどの楽器を使えるようになりたい。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -1053,7 +1053,7 @@ def program():
               {
                 "type": "text",
                 "text": "プログラマーになりたいなどではなく、その時流行っていたLINEの非公式のBotを作りたい為に中古のPCを購入。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -1075,7 +1075,7 @@ def program():
               {
                 "type": "text",
                 "text": "親に内緒で買った中古PCを使い見よう見まねでBotを作成。プログラム自体にハマる。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -1097,7 +1097,7 @@ def program():
               {
                 "type": "text",
                 "text": "非公式だと限界を感じ公式のLINEボットを作成。その後ディスコードやSlackのbotも作成。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -1119,7 +1119,7 @@ def program():
               {
                 "type": "text",
                 "text": "新しいBotの案をねりながら色んなBotを作成。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
@@ -1141,7 +1141,7 @@ def program():
               {
                 "type": "text",
                 "text": "夢は誰かが必要としているBotを作ること。Bot作成依頼などもいつか受けたい。ボトルメールBotという自作のBotの使用者を増やしたい。",
-                "wrap": true,
+                "wrap": True,
                 "color": "#666666",
                 "size": "sm",
                 "flex": 3
